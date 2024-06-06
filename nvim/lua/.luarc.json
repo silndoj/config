@@ -1,6 +1,8 @@
 {
     "diagnostics.globals": [
         "vim",
-        "turn"
+        "turn",
+        "copilot",
+        "local"
     ]
 }
